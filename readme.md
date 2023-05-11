@@ -1,3 +1,3 @@
-# Learning git is vscode (I hope!)
+Learning git is vscode (I hope!)
 
 First commit

@@ -1,4 +1,4 @@
-Learning git is vscode (I hope!)
+Learning git in MS's vscode (I hope!)
 
 First commit
 
